@@ -4,13 +4,21 @@
 - 💞️ I’m looking to collaborate on any open source projects.
 - 📫 How to reach me: jhessin@gmail.com
 
+Pop OS Setup Link:
+
+```sh
+sh -c "$(curl -fsSL bit.ly/jhessin-pop-setup)"
+```
+
 Mac-setup link:
-```bash
+
+```sh
 sh -c "$(curl -fsSL bit.ly/jhessin-mac-setup)"
 ```
 
 Ubuntu-setup link:
-```bash
+
+```sh
 sh -c "$(curl -fsSL bit.ly/jhessin-ubuntu-setup)"
 ```
 
