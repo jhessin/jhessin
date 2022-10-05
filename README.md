@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhessin
 - 👀 I’m interested in programming of all types and languages.
-- 🌱 I’m currently learning web development using Zenva online courses.
+- 🌱 I’m currently learning game development using the Godot engine.
 - 💞️ I’m looking to collaborate on any open source projects.
 - 📫 How to reach me: jhessin@gmail.com
 
