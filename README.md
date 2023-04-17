@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on any open source projects.
 - 📫 How to reach me: jhessin@gmail.com
 
+dvp setup link:
+
+```
+wget -O /usr/share/keymaps/dvp.map https://bit.ly/dvp-map
+```
+
 Pop OS Setup Link:
 
 ```sh
