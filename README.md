@@ -7,7 +7,7 @@
 dvp setup link:
 
 ```
-wget -O /usr/share/keymaps/dvp.map https://bit.ly/dvp-map
+sh -c "$(curl -fsSL https://bit.ly/3Avgt7f)"
 ```
 
 Pop OS Setup Link:
