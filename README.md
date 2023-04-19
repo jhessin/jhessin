@@ -6,7 +6,7 @@
 
 dvp setup link:
 
-```
+```sh
 sh -c "$(curl -fsSL bit.ly/3Avgt7f)"
 ```
 
