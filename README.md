@@ -7,7 +7,7 @@
 dvp setup link:
 
 ```
-sh -c "$(curl -fsSL https://bit.ly/3Avgt7f)"
+sh -c "$(curl -fsSL bit.ly/3Avgt7f)"
 ```
 
 Pop OS Setup Link:
