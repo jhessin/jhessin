@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhessin
 - 👀 I’m interested in programming of all types and languages.
-- 🌱 I’m currently brushing up my web development skills.
+- 🌱 I’m currently brushing up my python skills.
 - 💞️ I’m looking to collaborate on any open source projects.
 - 📫 How to reach me: jhessin@gmail.com
 
